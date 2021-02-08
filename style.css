@@ -8,26 +8,26 @@ body {
 }
 
 .text {
-   width: 320px;
-   padding: 10px;
-   border: 5px solid blue;
-   margin: 2;
+     width: 320px;
+     padding: 10px;
+     border: 5px solid blue;
+     margin: 2;
 }
 
 .bird {
-   border-radius: 50%;
-   align-content:  max-width 100%;
-   height: auto;
+     border-radius: 50%;
+     align-content: max-width 100%;
+     height: auto;
 }
 
 .image {
-   width: 400x;
-   padding: 10px;
-   border: 5px solid blue;
-   margin: 0;
+     width: 400x;
+     padding: 10px;
+     border: 5px solid blue;
+     margin: 0;
 }
 
 .different-types-of-birds {
-   border-collapse: collapse;
-   width: 100%;
+     border-collapse: collapse;
+     width: 100%;
 }
