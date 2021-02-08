@@ -15,9 +15,9 @@ body {
 }
 
 .bird {
- border-radius: 50%;
- max-width: 100%;
- height: auto;
+   border-radius: 50%;
+   align-content:  max-width: 100%;
+   height: auto;
 }
 
 .image {
@@ -27,7 +27,7 @@ body {
   margin: 0;
 } 
 
-.different types of birds {
+.different-types-of-birds {
   border-collapse: collapse;
   width: 100%;
 }
