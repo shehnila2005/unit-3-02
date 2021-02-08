@@ -16,7 +16,7 @@ body {
 
 .bird {
    border-radius: 50%;
-   align-content:  max-width: 100%;
+   align-content:  max-width 100%;
    height: auto;
 }
 
